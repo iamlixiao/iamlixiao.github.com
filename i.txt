@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>重霄之堂——迎客</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link rel="stylesheet" type="text/css" href="../c/a.css" />
+    <link rel="icon" type="image/png" href="../i/s.png" />
+    <script type="text/javascript" src="../j/a.js"></script>
+  </head>
+  <body onload="l()">
+    <div id="a">
+      <div id="b">
+	<div id="h">
+	  <div>
+	  重霄之堂
+	  </div>
+	  <span>
+	  by lixiao
+	  </span>
+	  <table id="cm" onmouseover="ib(0,0)" onmouseout="ib(0,1)">
+	    <tr>
+		  <td class="c1"></td><td class="c3"><a href="../yk/i.htm">迎客</a></td>
+		  <td class="c1"></td><td class="c2"><a href="../xw/i.htm" onmouseover="ib(1,0)" onmouseout="ib(1,1)" onclick="this.parentNode.className='c3'">行文</a></td>
+		  <td class="c1"></td><td class="c2"><a href="../ly/i.htm" onmouseover="ib(2,0)" onmouseout="ib(2,1)" onclick="this.parentNode.className='c3'">立异</a></td>
+		  <td class="c1"></td><td class="c2"><a href="../sq/i.htm" onmouseover="ib(3,0)" onmouseout="ib(3,1)" onclick="this.parentNode.className='c3'">拾趣</a></td>
+		  <td class="c1"></td><td class="c2"><a href="../ls/i.htm" onmouseover="ib(4,0)" onmouseout="ib(4,1)" onclick="this.parentNode.className='c3'">留声</a></td>
+		  <td class="c1"></td>
+	    </tr>
+	  </table>
+	</div>
+	<div id="t">
+	  <div style="width:75%;_width:567px;">
+	  <table><tr><td class="g1"><div></div></td><td class="g2"><h2>序言</h2></td><td class="g3"><div></div></td></tr><tr><td class="g4"></td><td class="gs">
+	    <p>　　余幼时，尝随父母至其办公之所，遂初识电脑，至今已十有一二年矣。方余九岁，则始见FrontPage，顿生自立网站之念，无奈年少力微，终不能成。其后又数欲遂此念，屡半途而废。</p>
+	    <p>　　高中以来，学业劳苦，而杂务却多，凡再受做网页之命于师，余尽力为之，旋自觉技术大进，谋之数月，遂始为此站。</p>
+	    </td><td class="g6"></td></tr><tr><td  class="g7"><div></div></td><td  class="g8"></td><td  class="g9"><div></div></td></tr></table>
+	  </div>
+	  <div style="width:25%;position:absolute;right:0px;top:0px;*width:33%;*left:100%;_left:561px;_width:195px;">
+	  <table><tr><td class="g1"><div></div></td><td class="g2"><a onmouseover="bta(1,0)" onmouseout="bta(0,0)">最新内容</a></td><td class="g3"><div></div></td></tr><tr><td class="g4"></td><td class="gs">
+        <p><i>(2011-2-14)</i><a href="../xw/14-C-t-t.htm">建站手记</a></p>
+		  <p>　　本站刚刚建成，还没什么内容，来<a target="_blank" href="http://hi.baidu.com/iamlixiao">我的百度空间</a>看看吧～</p>
+	    </td><td class="g6"></td></tr><tr><td  class="g7"><div></div></td><td  class="g8"></td><td  class="g9"><div></div></td></tr></table>
+	  </div>
+	</div>
+      </div>
+    </div>
+    <div id="e">
+      <div style="position: absolute; left: 15px;top:4px;">文字亮度<b>10</b><a onmousedown="tlm(Ls-10)">　-　</a><a onmousedown="tlm(Ls+10)">　+　</a></div>
+      <div style="position: absolute; left: 155px;top:4px;">背景浓度<b>6</b><a onclick="tln(Ln-10)">　-　</a><a onclick="tln(Ln+10)">　+　</a></div>
+      2011　<img alt="重霄之堂" src="../i/s.png"/>　lixiao.tk
+    </div>
+    <div id="pld" style="">载入中</div>
+  </body>
+</html>
